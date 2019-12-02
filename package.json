@@ -1,6 +1,6 @@
 {
   "name": "@uxland/uxl-typings",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Typings",
   "main": "dist/global.js",
   "module": "global.js",
